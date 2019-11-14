@@ -1,0 +1,44 @@
+body {
+	background-image: url(media/background.jpg);
+	background-color: #dea5a4;
+	background-
+	font-family: 'Bebas Neue', cursive;
+	margin-left: 5em;
+	margin-right: 5em;
+
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: bold;
+	color: pink;
+}
+
+main {
+	background-color: black;
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+}
+
+.cafe {
+	text-align: center;
+	margin-left: 5em;
+	margin-right: 5em;
+	
+}
+.cafe img{
+	width: 20em;
+	height: 20em;
+	border-width: 5px;
+	border-style: solid;
+	border-color: pink;
+	border-radius: 50%;
+	margin: 5em;
+
+}
+
+.cafe img:hover {
+	opacity: 80%;
+
+}
